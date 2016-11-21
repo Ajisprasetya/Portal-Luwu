@@ -229,4 +229,4 @@ if(typeof jQuery != 'undefined') {
 				);
 			}
 		});
-		}
+		
